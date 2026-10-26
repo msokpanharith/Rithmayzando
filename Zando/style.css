@@ -73,7 +73,7 @@ header .logo{
     display: flex;
 }
 header .logo img{
-    width: 120px;
+    width: 150px;
 }
 
 header .auth{
